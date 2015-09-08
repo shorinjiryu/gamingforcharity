@@ -47,6 +47,10 @@ body {
     font-weight:                bold;
 }
 
+.school a {
+    color:                   #990000;
+}
+
 .jumbotron {
     background-color:        #999999;
 }
@@ -57,12 +61,9 @@ body {
     font-weight:                bold;
 }
 
-.exp h4 {
-    padding-left:               10px;
-}
-
 .exp ul{
     list-style:                 none;
+    padding-right:              36px;
 }
 
 .exp ul li {
