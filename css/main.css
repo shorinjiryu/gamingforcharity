@@ -62,7 +62,7 @@ body {
 }
 
 .exp ul li {
-    display:                  inline;
+   /* display:                  inline; */
 }
 
 .exp a {
