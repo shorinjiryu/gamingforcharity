@@ -64,3 +64,7 @@ body {
 .exp ul li {
     display:                  inline;
 }
+
+.exp a {
+    color:                   #FFFFFF;
+}
